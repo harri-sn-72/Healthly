@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Heathly
+
+  Created by Harrinandhaan Sathish Kumaar Nirmala on 9/21/21.
+  
+*/
+
+"hi_harri!" = "Willkommen, Harri!";
+"how_is_day" = "Wie ist dein Tag heute?";
+"steps_week" = "Schritte für diese Woche!";
+"health" = "Gesundheit";
+"hydration" = "Wasser";
+"food" = "Essen";
+"settings" = "Einstellungen";

@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Heathly
+
+  Created by Harrinandhaan Sathish Kumaar Nirmala on 9/21/21.
+  
+*/
+
+"hi_harri!" = "你好，哈利！";
+"how_is_day" = "你今天过得怎么样？";
+"steps_week" = "本周的步骤！";
+"health" = "健康";
+"hydration" = "水";
+"food" = "食物";
+"settings" = "设置";
+
